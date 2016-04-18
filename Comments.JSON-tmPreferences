@@ -1,0 +1,13 @@
+{
+    "scope": "source.kamailio.config", 
+    "uuid": "E07EC438-7B75-4437-8AA1-DA94C1E6EAHH", 
+    "name": "Comments", 
+    "settings": {
+        "shellVariables": [
+            {
+                "name": "TM_COMMENT_START", 
+                "value": "#"
+            }
+        ]
+    }
+}
